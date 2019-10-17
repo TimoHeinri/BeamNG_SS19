@@ -1,0 +1,6 @@
+model_checkpoint_path: "BeamDQN.ckpt-147"
+all_model_checkpoint_paths: "BeamDQN.ckpt-135"
+all_model_checkpoint_paths: "BeamDQN.ckpt-138"
+all_model_checkpoint_paths: "BeamDQN.ckpt-141"
+all_model_checkpoint_paths: "BeamDQN.ckpt-144"
+all_model_checkpoint_paths: "BeamDQN.ckpt-147"
