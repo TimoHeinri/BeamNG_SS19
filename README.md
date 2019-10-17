@@ -7,4 +7,4 @@ Running the main method in the model file will Train the A.I. using BeamNg.
 
 The get_command method in the model file will load the current model with the highest number, evaluate the provided image and return the best action.
 
-Connection drivebuild doesn't work.
+Connection to drivebuild doesn't work.
